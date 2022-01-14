@@ -22,7 +22,7 @@ A Gold mine dataset for computer vision is the ImageNet dataset. It consists of 
 
 
 ## Dataset:
-[xception](https://www.kaggle.com/keras/xception)<br>
+[XceptionNet](https://www.kaggle.com/keras/xception)<br>
 [VGG19](https://www.kaggle.com/keras/vgg19)<br>
 [VGG16](https://www.kaggle.com/keras/vgg16)<br>
 [ResNet50](https://www.kaggle.com/keras/resnet50)<br>
