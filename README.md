@@ -22,13 +22,13 @@ A Gold mine dataset for computer vision is the ImageNet dataset. It consists of 
 
 
 ## Dataset:
-[xception](https://www.kaggle.com/keras/xception)
-[VGG19](https://www.kaggle.com/keras/vgg19)
-[VGG16](https://www.kaggle.com/keras/vgg16)
-[ResNet50](https://www.kaggle.com/keras/resnet50)
-[inceptionv3](https://www.kaggle.com/keras/inceptionv3)
-[Fruits 360](https://www.kaggle.com/moltean/fruits)
-[Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition)
+[xception](https://www.kaggle.com/keras/xception)<br>
+[VGG19](https://www.kaggle.com/keras/vgg19)<br>
+[VGG16](https://www.kaggle.com/keras/vgg16)<br>
+[ResNet50](https://www.kaggle.com/keras/resnet50)<br>
+[inceptionv3](https://www.kaggle.com/keras/inceptionv3)<br>
+[Fruits 360](https://www.kaggle.com/moltean/fruits)<br>
+[Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition)<br>
 ## Implementation:
 
 **Libraries:**  `NumPy` `pandas` `PIL` `seaborn` `keras`
